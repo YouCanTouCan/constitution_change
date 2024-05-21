@@ -1,22 +1,22 @@
 #### Constitution for the Open Source Club at the Ohio State University
 #### Distributed under a creative commons 0 (CC-0)
 
-# Opensource Club Constitution
-### Authors:
-- Isaac Jones
-- Martin Jansche
-- Michael Benedict
-- Andrew Cziryak
-### Date:
-- Version 1.0: 20 March 2000
-- Version 1.1: 24 March 2016
-- Version 2.0: 11 October 2018
+# Open source Club Constitution
 
-# Preamble
+## Preamble
 
 It is important to recognize the danger that bureaucracy can get in the way of doing cool things.  So long as the requirements of the Ohio State University and the realistic needs of The Open Source Club are met, efforts should be made to minimize bureaucracy.
 
 As The Open Source Club has evolved it has become necessary to elect additional Officers in order to aid the further growth of The Open Source Club. While this is not an attempt to create a bureaucracy, it is necessary in order to delegate duties among Members in order to help The Open Source Club run smoothly. At the time of this writing there are currently three elected positions within The Open Source Club: President (or Benevolent Dictator), Vice President, and Treasurer. These three positions will continue to exist as long as they are required by the Ohio State University.
+
+The current staff of the Open Source Club would like to acknowledge the following past members and staff for their contributions:
+- Isaac Jones
+- Martin Jansche
+- Michael Benedict
+- Andrew Cziryak
+- Kyle Rosenberg
+- Adrian Vovk
+- Dominik Winecki
 
 # Article I - Definition
 
