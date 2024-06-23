@@ -111,13 +111,82 @@ They are, however, considered in the calculation of a unanimity.
 
 ## Article IV - Officer Organization
 
+### Section I - Titles and Duties
+
+The **President** of the OSC will be required to oversee basic functioning of the organization.
+The President will remain in charge of deciding meeting times, locations, and topics; of
+establishing or disestablishing social media accounts and virtual social groups; of representing
+the OSC both in and out of the OSU campus. 
+
+The **Vice President** of the OSC will assist the President in the functioning club, and be
+delegated individual roles when appropriate and agreed upon. (some other stuff, too; Lizzy
+can fill this out!)
+
+The **Treasurer** of the OSC will manage and oversee all financial accounts and duties of
+the OSC. (some othe rsstuff, too; Robert can fill this out!)
+
+### Section II - Voting and Tenure
+Officer elections are to take place at the end of the semester preceding the semester
+for which the vote will be relevant.
+
+Elections for a provided position are to continue, eliminating the least-popular candidate
+from the roster each time, until a candidate receives a simple majority of votes (not including
+abstentions).
+
+An individual is allowed to run for, and hold, any officer position until they are no longer
+a currently-enrolled OSU student.
+
+### Section II - Modifying Officer Positions
+In the case of substantial club size change, the current officers may deem it reasonable to create
+new officer positions, or eliminate existing ones. In all cases, there must always be at least
+the following three positions:
+
+- President
+- Vice President
+- Treasurer
+
+The exact process for the creation or removal of officer positions is left to the current
+officers' discretion. Any changes to the structure of officer positions is to be made
+public to the membership during the semester preceding the term in which these changes
+would take effect.
+
 ## Article V - Advisor Selection
+Advisors of student organizations must be full-time members of the University faculty or Administrative &
+Professional staff. Advisors are expected to approve any changes made to the Constitution, Goals,
+or other legislature of the organization. They are additionally expected to approve programming
+and meeting decisions, as well as budgeting decisions. Advisors are expected to meet with
+the officers of the organization at least once per term.
+
+Finally, advisors are encouraged to meet with the officers on a more regular basis, such
+as once per month, as well as give general opinions and advice pertaining to the success
+of the organization.
 
 ## Article VI - Organization Meetings
+While meeting attendance is not explicitly required to be a member of this organization (excepting
+active membership), it is highly encouraged. In-person meetings shall occur no less
+than two times in a semester, pending extreneous health considerations, individual, communal,
+municipal, or otherwise.
 
-## Management of Organization Assets
-Pretty much just how the GitHub ought to work.
+It is a stated goal of the OSC to perform collaborative meetings with other organizations.
+Whether and which of these meetings are considered official OSC meetings is left to the
+discretion of the current officers.
 
-## Article VII - Methods of Amending this Constitution
+## Article VII - Management of Organization Assets
 
-## Article VIII - Methods of Dissolving of this Organization
+### Section I - Physical Assets
+All physical assets are to be stored and cared for in a location agreed upon by the current
+officers.
+
+### Section II - Digital Assets
+In addition to other assets that are typically held by OSU organizations, the OSC will also
+manage a GitHub organization.
+
+(todo)
+
+## Article VIII - Methods of Amending this Constitution
+Proposed amendments shall be presented to the other officers and then discussed among them. If
+a majority of officers approve of the amendment, it can be made to the constitution.
+
+## Article IX - Methods of Dissolving this Organization
+For this organization to dissolve, a unanimous vote among the Co-Presidents to do so shall take
+place. Should any assets and/or debt exist, the advisers shall see fit to dispose of it.
