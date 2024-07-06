@@ -79,13 +79,13 @@ but is not limited to:
 - Those who are active in existing social groups (Discord, Revolt, Matrix, etc.)
   - "Active" is loosely defined as contributing enough to online discussion so as to easily
     be precisely identified and recalled by members during in-person meetings, be it by
-    username or reference to disccusions of which the member in question was a part. A more
+    username or reference to discussions of which the member in question was a part. A more
     precise definition is left to current officership discretion.
 - Other examples left to the officers' discretion.
 
 In order to foster a sense of welcoming and accessibility, the only tangible difference between
-passive and active membership will be voting and candidacy priveleges for officer roles, as well
-as voting priveleges in the removal of executive members.
+passive and active membership will be voting and candidacy privileges for officer roles, as well
+as voting privileges in the removal of executive members.
 
 Neither for passive membership, nor active membership, will any fee or due be required to be
 considered a member of the Open Source Club.
@@ -132,8 +132,10 @@ establishing or disestablishing social media accounts and virtual social groups;
 the OSC both in and out of the OSU campus.
 
 The **Vice President** of the OSC will assist the President in the functioning club, and be
-delegated individual roles when appropriate and agreed upon. (some other stuff, too; Lizzy
-can fill this out!)
+delegated individual roles when appropriate and agreed upon. The Vice President will remain
+in charge of providing secondary opinions to the President regarding decisions on organization
+and meetings; of assisting the President in their duties pertaining to the regular functioning
+of the organization.
 
 The **Treasurer** of the OSC will manage and oversee all financial accounts and duties of
 the OSC. The Treasurer will remain in charge of overseeing and approving spending when
