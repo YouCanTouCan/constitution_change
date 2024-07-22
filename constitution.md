@@ -129,17 +129,19 @@ They are, however, considered in the calculation of a unanimity.
 The **President** of the OSC will be required to oversee basic functioning of the organization.
 The President will remain in charge of deciding meeting times, locations, and topics; of
 establishing or disestablishing social media accounts and virtual social groups; of representing
-the OSC both in and out of the OSU campus.
+the OSC both in and out of the OSU campus; of assisting in the maintenance of the organization's
+digital assets.
 
 The **Vice President** of the OSC will assist the President in the functioning club, and be
 delegated individual roles when appropriate and agreed upon. The Vice President will remain
 in charge of providing secondary opinions to the President regarding decisions on organization
 and meetings; of assisting the President in their duties pertaining to the regular functioning
-of the organization.
+of the organization; of assisting in the maintenance of the organization's digital assets.
 
 The **Treasurer** of the OSC will manage and oversee all financial accounts and duties of
 the OSC. The Treasurer will remain in charge of overseeing and approving spending when
-necessary; of maintained detailed records of organization cashflow.
+necessary; of maintained detailed records of organization cashflow; of assisting in the
+maintenance of the organization's digital assets.
 
 ### Section II - Voting and Tenure
 
@@ -153,7 +155,7 @@ abstentions).
 An individual is allowed to run for, and hold, any officer position until they are no longer
 a currently-enrolled OSU student.
 
-### Section II - Modifying Officer Positions
+### Section III - Modifying Officer Positions
 
 In the case of substantial club size change, the current officers may deem it reasonable to create
 new officer positions, or eliminate existing ones. In all cases, there must always be at least
@@ -203,18 +205,22 @@ officers.
 In addition to other assets that are typically held by OSU organizations, the OSC will also
 manage a GitHub organization.
 
-(todo)
+At any given time, the only individuals who are permitted write access to the GitHub
+organization and all repositories over which it presides are the three primary officers labeled
+in Article IV Section III, the faculty advisor(s) of the organization, and any other additional
+officers whose explicitly-named duties in this consitutition include the management of this
+organization's digital assets. It is the responsibility of those aforementioned to ensure
+that, when the individuals taking on these roles are changed, premissions are revoked and
+granted properly within one month of the decision for these roles to be changed.
+
+Non-write access is left to the current officers' discretion.
 
 ## Article VIII - Methods of Amending this Constitution
 
 Proposed amendments shall be presented to the other officers and then discussed among them. If
 a majority of officers approve of the amendment, it can be made to the constitution.
 
-(todo: be more precise)
-
 ## Article IX - Methods of Dissolving this Organization
 
 For this organization to dissolve, a unanimous vote among the officers to do so shall take
 place. Should any assets and/or debt exist, the advisers shall see fit to dispose of it.
-
-(todo: be more precise)
