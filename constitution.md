@@ -175,6 +175,13 @@ the following three positions:
 - Vice President
 - Treasurer
 
+When creating executive officer positions beyond these three, members who fill them
+are to be labeled as "Secretary" on the Ohio State Student Organization page, with
+the proper name of the role being placed in "Other Title". An exception is made
+for roles whose names and responsibilities line up comfortably with a role that
+is listed in those available on the Student Organization page (the definition of
+"comfortably" is left to officer discrtion).
+
 The exact process for the creation or removal of officer positions is left to the current
 officers' discretion. Any changes to the structure of officer positions is to be made
 public to the membership during the semester preceding the term in which these changes
