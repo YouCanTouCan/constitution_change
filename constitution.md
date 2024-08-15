@@ -57,7 +57,7 @@ program affiliation, nor personal political affiliation.
 
 Finally, it is this organization's policy that these statements and policies extend to - and
 will be required of - all individuals who choose to associate with this organization; student,
-officer,  or otherwise.
+faculty, or otherwise.
 
 ## Article II - Membership
 
@@ -90,7 +90,7 @@ as voting privileges in the removal of executive members.
 Neither for passive membership, nor active membership, will any fee or due be required to be
 considered a member of the Open Source Club.
 
-## Article III - Procedures for Removing Members and Officers
+## Article III - Procedures for Removing Members and Exective Officers
 
 In the case that a member of this organization is observed
 to behave in a way incongruent with Ohio State University Standards, the Student Code of Conduct,
@@ -122,7 +122,7 @@ The removal will be successful if:
 Voting abstentions among voting-abled members are not considered in the calculation of a majority.
 They are, however, considered in the calculation of a unanimity.
 
-## Article IV - Officer Organization
+## Article IV - Executive Officership
 
 ### Section I - Titles and Duties
 
@@ -142,6 +142,16 @@ The **Treasurer** of the OSC will manage and oversee all financial accounts and 
 the OSC. The Treasurer will remain in charge of overseeing and approving spending when
 necessary; of maintained detailed records of organization cashflow; of assisting in the
 maintenance of the organization's digital assets.
+
+The **Director of Software Project Development** of the OSC will oversee a dedicated
+subteam of the OSC with the goal of fostering a space where technologically-interested
+members can learn how to develop open-source software firsthand. The Director of
+Software Project Development will remain in charge of organizing subteam meetings;
+of desigining and maintaining a primary project for the subteam to work on (at member
+discretion); of planning and creating update presentations to share with the larger,
+non-technically-focused membership of the OSC; of overseeing primary subteam project
+repositories to be hosted on the OSC's GitHub Organization and providing assistance
+to those members of the subteam who select to work on their own projects.
 
 ### Section II - Voting and Tenure
 
