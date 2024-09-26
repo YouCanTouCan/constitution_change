@@ -180,9 +180,20 @@ to those members of the subteam who select to work on their own projects.
 Officer elections are to take place at the end of the semester preceding the semester
 for which the vote will be relevant.
 
-Elections for a provided position are to continue, eliminating the least-popular candidate
-from the roster each time, until a candidate receives a simple majority of votes (not including
-abstentions).
+After a deadline for when eligible voters must have completed their votes has been
+established, the two primary deadlines follow:
+
+* Two weeks before the deadline, all prospective candidates must have established
+their candidature by way of notifying current executive officers and the club at large.
+* One week before the deadline, voting must open to all active members.
+
+Regardless of format (digital form, in-person paper tickets, etc.), a ballot for any
+given executive member must list all candidates, and voters are to rank the candidates
+in order of approval, with 1 being "most approved" and <em>n</em> being "least approved,"
+where <em>n</em> is the number of candidates for the provided position.
+
+The winner of a provided election is the first candidate to reach 50% first-place approval,
+after all least-favored candidates have been eliminated in sequence.
 
 An individual is allowed to run for, and hold, any officer position until they are no longer
 a currently-enrolled OSU student.
