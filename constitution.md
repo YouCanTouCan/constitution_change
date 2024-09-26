@@ -1,12 +1,12 @@
-#### Constitution for the Open Source Club at the Ohio State University
+#### Constitution for the Open Source Club at the Ohio State University <!-- toc omit heading -->
 
-#### Version 3.0
+#### Version 3.0  <!-- toc omit heading -->
 
-#### Distributed under a creative commons 0 (CC-0)
+#### Distributed under a creative commons 0 (CC-0) <!-- toc omit heading -->
 
-# Open source Club Constitution
+# Open source Club Constitution <!-- toc omit heading -->
 
-## Preamble
+## Preamble <!-- toc omit heading -->
 
 The Open Source Club at The Ohio State University has had an extensive role in OSU's tech-related
 student life, from sprouting into other clubs and events, to encouraging students and alumni alike
@@ -26,14 +26,36 @@ The current staff of the Open Source Club would like to acknowledge the followin
 - Adrian Vovk
 - Dominik Winecki
 
-## Article I - Definition
+## Contents
+- [Article I: Definition](#article-i-definition)
+  - [Section I: Name](#section-i-name)
+  - [Section II: Purpose](#section-ii-purpose)
+  - [Section III: Non-Discrimination Policy](#section-iii-non-discrimination-policy)
+- [Article II: Membership](#article-ii-membership)
+- [Article III: Procedures for Removing Members and Exective Officers](#article-iii-procedures-for-removing-members-and-exective-officers)
+  - [Section I: The Removal of a Non-Officer](#section-i-the-removal-of-a-non-officer)
+  - [Section II: The Removal of an Officer](#section-ii-the-removal-of-an-officer)
+  - [Section III: Calculating Majorities](#section-iii-calculating-majorities)
+- [Article IV: Executive Officership](#article-iv-executive-officership)
+  - [Section I: Titles and Duties](#section-i-titles-and-duties)
+  - [Section II: Voting and Tenure](#section-ii-voting-and-tenure)
+  - [Section III: Modifying Officer Positions](#section-iii-modifying-officer-positions)
+- [Article V: Advisor Selection](#article-v-advisor-selection)
+- [Article VI: Organization Meetings](#article-vi-organization-meetings)
+- [Article VII: Management of Organization Assets](#article-vii-management-of-organization-assets)
+  - [Section I: Physical Assets](#section-i-physical-assets)
+  - [Section II: Digital Assets](#section-ii-digital-assets)
+- [Article VIII: Methods of Amending this Constitution](#article-viii-methods-of-amending-this-constitution)
+- [Article IX: Methods of Dissolving this Organization](#article-ix-methods-of-dissolving-this-organization)
 
-### Section I - Name
+## Article I: Definition
+
+### Section I: Name
 
 The name of this student organization is to be "The Open Source Club at The Ohio State University."
 ("The Open Source Club", "OSC", "th(e/is) organization", "th(e/is) student organization")
 
-### Section II - Purpose
+### Section II: Purpose
 
 This student organization will dedicate itself to introducing the open source model of
 development to students; to showcasing projects developed under an open source development
@@ -44,7 +66,7 @@ walks of life; to introduce, promote, and potentially normalize a more democrati
 development of the technology that surrounds us and will continue to do so for the years
 to come.
 
-### Section III - Non-Discrimination Policy
+### Section III: Non-Discrimination Policy
 
 This organization does not discriminate on the basis of
 age, ancestry, color, disability, gender identity or expression, genetic information,
@@ -59,7 +81,7 @@ Finally, it is this organization's policy that these statements and policies ext
 will be required of - all individuals who choose to associate with this organization; student,
 faculty, or otherwise.
 
-## Article II - Membership
+## Article II: Membership
 
 Passive membership is awarded to any and all individuals who display interest in the organization
 to a recognizable degree. This includes, but is not limited to:
@@ -90,7 +112,7 @@ as voting privileges in the removal of executive members.
 Neither for passive membership, nor active membership, will any fee or due be required to be
 considered a member of the Open Source Club.
 
-## Article III - Procedures for Removing Members and Exective Officers
+## Article III: Procedures for Removing Members and Exective Officers
 
 In the case that a member of this organization is observed
 to behave in a way incongruent with Ohio State University Standards, the Student Code of Conduct,
@@ -99,7 +121,7 @@ as expressed in Article I, or in any other way deemed unacceptable by the standa
 and its membership, the member in question will be subject to removal from this organization
 by the policies proceeding:
 
-### Section I - The Removal of a Non-Officer
+### Section I: The Removal of a Non-Officer
 
 Non-officer members being considered for removal will be notified of this consideration,
 whereafter a one-week voting period open to active members, passive members, and officers
@@ -109,7 +131,7 @@ The removal will be successful if:
 - A unanimous decision to remove is made among the officers.
 - A simple majority decision to remove is made among passive and active members, separately.
 
-### Section II - The Removal of an Officer
+### Section II: The Removal of an Officer
 
 Officer members being considered for removal will be notified of this consideration,
 whereafter a two-week voting period open to active members will commence.
@@ -117,14 +139,14 @@ The removal will be successful if:
 
 - A 2/3 majority decision to remove is made among active members.
 
-### Section III - Calculating Majorities
+### Section III: Calculating Majorities
 
 Voting abstentions among voting-abled members are not considered in the calculation of a majority.
 They are, however, considered in the calculation of a unanimity.
 
-## Article IV - Executive Officership
+## Article IV: Executive Officership
 
-### Section I - Titles and Duties
+### Section I: Titles and Duties
 
 The **President** of the OSC will be required to oversee basic functioning of the organization.
 The President will remain in charge of deciding meeting times, locations, and topics; of
@@ -153,7 +175,7 @@ non-technically-focused membership of the OSC; of overseeing primary subteam pro
 repositories to be hosted on the OSC's GitHub Organization and providing assistance
 to those members of the subteam who select to work on their own projects.
 
-### Section II - Voting and Tenure
+### Section II: Voting and Tenure
 
 Officer elections are to take place at the end of the semester preceding the semester
 for which the vote will be relevant.
@@ -165,7 +187,7 @@ abstentions).
 An individual is allowed to run for, and hold, any officer position until they are no longer
 a currently-enrolled OSU student.
 
-### Section III - Modifying Officer Positions
+### Section III: Modifying Officer Positions
 
 In the case of substantial club size change, the current officers may deem it reasonable to create
 new officer positions, or eliminate existing ones. In all cases, there must always be at least
@@ -187,7 +209,7 @@ officers' discretion. Any changes to the structure of officer positions is to be
 public to the membership during the semester preceding the term in which these changes
 would take effect.
 
-## Article V - Advisor Selection
+## Article V: Advisor Selection
 
 Advisors of student organizations must be full-time members of the University faculty or Administrative &
 Professional staff. Advisors are expected to approve any changes made to the Constitution, Goals,
@@ -199,7 +221,7 @@ Finally, advisors are encouraged to meet with the officers on a more regular bas
 as once per month, as well as give general opinions and advice pertaining to the success
 of the organization.
 
-## Article VI - Organization Meetings
+## Article VI: Organization Meetings
 
 While meeting attendance is not explicitly required to be a member of this organization (excepting
 active membership), it is highly encouraged. In-person meetings shall occur no less
@@ -210,14 +232,14 @@ It is a stated goal of the OSC to perform collaborative meetings with other orga
 Whether and which of these meetings are considered official OSC meetings is left to the
 discretion of the current officers.
 
-## Article VII - Management of Organization Assets
+## Article VII: Management of Organization Assets
 
-### Section I - Physical Assets
+### Section I: Physical Assets
 
 All physical assets are to be stored and cared for in a location agreed upon by the current
 officers.
 
-### Section II - Digital Assets
+### Section II: Digital Assets
 
 In addition to other assets that are typically held by OSU organizations, the OSC will also
 manage a GitHub organization.
@@ -232,12 +254,12 @@ granted properly within one month of the decision for these roles to be changed.
 
 Non-write access is left to the current officers' discretion.
 
-## Article VIII - Methods of Amending this Constitution
+## Article VIII: Methods of Amending this Constitution
 
 Proposed amendments shall be presented to the other officers and then discussed among them. If
 a majority of officers approve of the amendment, it can be made to the constitution.
 
-## Article IX - Methods of Dissolving this Organization
+## Article IX: Methods of Dissolving this Organization
 
 For this organization to dissolve, a unanimous vote among the officers to do so shall take
 place. Should any assets and/or debt exist, the advisers shall see fit to dispose of it.
