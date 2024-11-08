@@ -195,8 +195,11 @@ where <em>n</em> is the number of candidates for the provided position.
 The winner of a provided election is the first candidate to reach 50% first-place approval,
 after all least-favored candidates have been eliminated in sequence.
 
-An individual is allowed to run for, and hold, any officer position until they are no longer
+An individual is allowed to run for, and hold, any officer position so long as they are
 a currently-enrolled OSU student.
+
+Officers, when voted in, serve a term of a full academic year unless they step down, are 
+removed from their position, or become no longer a currently-enrolled OSU student.
 
 ### Section III: Modifying Officer Positions
 
